@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oussamaLaribi
-- 👀 I’m interested in software development
+- 👀 I’m software software engineer (Java/Angular)
 - 🌱 I’m currently learning React/Quarkus
 - 📫 How to reach me oussamala72@gmail.com
 
